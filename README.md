@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smmydev
-- 👀 I’m interested in wordpress
-- 🌱 I’m currently learning React
+- 👀 Laravel and cake PHP expert
+- 🌱 5+year ex PHP
 
 <!---
 smmydev/smmydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
